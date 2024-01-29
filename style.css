@@ -1,0 +1,23 @@
+body { 
+    background-color: #99C68E;
+}
+
+h1 { 
+    font-family: 'Libre Baskerville', serif;
+    text-transform: capitalize;
+    font-size:
+}
+
+.poster {
+    color: white;
+    background-color: #99C68E;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.kermit-img { 
+    border: 5px white solid;
+    width: 100%;
+}
